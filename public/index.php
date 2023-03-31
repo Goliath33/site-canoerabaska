@@ -15,11 +15,11 @@
 </div>
     	</header>
 <ul class="topnav">
-			  	<li><a class="active" href="index.html">Accueil</a></li>
-  			-	<li><a href="apropos.html">A propos</a></li>
-  				<li><a href="nosbalades.html">Nos balades</a></li>
+			  	<li><a class="active" href="index.php">Accueil</a></li>
+  			-	<li><a href="apropos.php">A propos</a></li>
+  				<li><a href="nosbalades.php">Nos balades</a></li>
 				<li><a href="#equipage">Équipage</a></li>
-  				<li class="right"><a href="contact.html">Contact et Réservation</a></li>
+  				<li class="right"><a href="contact.php">Contact et Réservation</a></li>
 		</ul>
 <main>
 	</main>
